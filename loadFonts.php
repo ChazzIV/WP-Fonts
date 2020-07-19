@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Fuentes hecho por mi
+Plugin Name: Wp-fonts
 Plugin URI: https://github.com/ChazzIV
 Description: Plugin para insertar fuentes a mano en <code>functions.php</code> y activarlo a placer (o no) .
 Version: 1.0
